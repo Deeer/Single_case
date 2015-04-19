@@ -28,7 +28,8 @@
         
         
     });
-  
+    NSString *a =@"a";
+    a = [a uppercaseString];
     
     return instance;
     

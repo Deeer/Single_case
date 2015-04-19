@@ -21,14 +21,23 @@
 	// Do any additional setup after loading the view, typically from a nib.
 //    Demo *obj =[[Demo alloc]init];
 //    NSLog(@"%@",obj);
+//    
+//    for (int i=0 ; i<10; i++) {
+//    
+//        Demo *obj1 =[Demo sharedDemoObj];
+//        NSLog(@"%@",obj1);
+//        
+//    }
     
-    for (int i=0 ; i<10; i++) {
+ 
     
-        Demo *obj1 =[Demo sharedDemoObj];
-        NSLog(@"%@",obj1);
-        
-    }
     
+    
+    
+}
+
+-(void)demo
+{
     
     
     
